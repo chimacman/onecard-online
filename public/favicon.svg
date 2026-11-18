@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<rect x="5" y="5" width="90" height="90" rx="24" fill="#163f37"/>
+<rect x="28" y="22" width="48" height="65" rx="8" transform="rotate(14 52 54)" fill="#fefbf0"/>
+<text x="46" y="72" font-size="46" fill="#e36155" font-family="serif">♥</text>
+</svg>
